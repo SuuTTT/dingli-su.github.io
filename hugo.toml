@@ -1,11 +1,11 @@
 baseURL = 'https://suuttt.github.io/'
 languageCode = 'en-us'
-title = 'Dingli Su | PhD Student in Robotics & AI'
+title = 'Dingli Su | PhD Student in AI'
 theme = 'blowfish'
 
 [params]
   name = 'Dingli Su'
-  description = 'PhD Student in Robotics and AI at [University]'
+  description = 'PhD Student in Reinforcement Learning at Beihang University'
   profilePicture = 'img/profile.jpg' # Placeholder
   
   [params.main]
