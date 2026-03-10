@@ -21,6 +21,11 @@ theme = 'blowfish'
     showCopyright = true
 
 [[menu.main]]
+  name = 'Wiki'
+  url = '/wiki/'
+  weight = 5
+
+[[menu.main]]
   name = 'Research'
   url = '/projects/'
   weight = 10

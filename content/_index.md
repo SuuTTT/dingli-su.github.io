@@ -1,26 +1,24 @@
 ---
-title: "About Me"
+title: "Welcome"
 date: 2026-03-10
 description: "PhD Student in Robotics and AI."
+layout: "profile"
+showDate: false
+showAuthor: false
 ---
 
-# Dingli Su
+# 👋 Hi, I'm Dingli Su
 
-I am a PhD Student specializing in **Robotics** and **Artificial Intelligence**. My research focuses on:
-- **Task and Motion Planning (TAMP)**
-- **Learning Abstractions**
-- **Hierarchical Decision Making**
-- **Structural Information Principles in MARL**
+I am a **PhD Student** specializing in **Robotics** and **Artificial Intelligence**. My research explores the intersection of planning and learning to create robust autonomous systems.
 
-I am passionate about building intelligent systems that can plan and act in complex, high-dimensional environments.
+### 🔬 Research Interests
+- **Task and Motion Planning (TAMP)**: Bridging symbolic reasoning with continuous control.
+- **Hierarchical Decision Making**: Scaling RL to long-horizon tasks.
+- **Structural Information Principles**: Leveraging information theory in MARL and LLMs.
 
-### Contact
-- [GitHub](https://github.com/dingli-su)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=FvZslxkAAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/dingli-su)
-- [Email](mailto:dingli.su@example.edu)
+> "Building intelligent systems that can plan, learn, and act in the real world."
 
 ---
 
-## Current Work
-Our research on **Structural Information Principles** explores how to structure the latent representation of complex systems for more effective reinforcement learning and hallucination detection in LLMs.
+### 📬 Find me on
+[GitHub](https://github.com/dingli-su) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=FvZslxkAAAAJ) | [LinkedIn](https://www.linkedin.com/in/dingli-su) | [Email](mailto:dingli.su@example.edu)
