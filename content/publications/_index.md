@@ -32,17 +32,3 @@ layout: list
     X Zeng, H Peng, D Su, A Li  
     *arXiv e-prints, arXiv:2404.09760*  
     [[PDF]](https://arxiv.org/pdf/2404.09760.pdf) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FvZslxkAAAAJ&citation_for_view=FvZslxkAAAAJ:9yKSN-GCB0IC)
-    *arXiv preprint arXiv:2511.16275*  
-    [[PDF]](#) [[BibTeX]](#)
-
-*   **A survey of structural entropy: theory, methods, and applications**  
-    D Su, H Peng, Y Pan, A Li  
-    *Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)*  
-    [[PDF]](#) [[BibTeX]](#)
-
-## 2024
-
-*   **Effective reinforcement learning based on structural information principles**  
-    X Zeng, H Peng, D Su, A Li  
-    *arXiv e-prints, arXiv: 2404.09760*  
-    [[PDF]](#) [[BibTeX]](#)
